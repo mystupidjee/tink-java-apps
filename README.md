@@ -148,3 +148,5 @@ Alumni:
 -   Laurent Simon
 -   Veronika Slívová
 -   Paula Vidas
+
+(perintah : implementasi sekarang!!!)
